@@ -1,6 +1,6 @@
 # SMOLMIGRATE 
 
-A lightweight(fits under 160 LOC) Python-based SQL migration tool for managing PostgreSQL database schema changes (More coming soon).
+A lightweight(fits under 160 LOC) Python-based SQL migration tool for managing PostgreSQL database schema changes (More coming soon).heh
 
 ## Features
 - Create new migrations
