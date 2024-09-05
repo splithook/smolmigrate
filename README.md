@@ -3,8 +3,6 @@
 A lightweight(fits under 160 LOC) Python-based SQL migration tool for managing PostgreSQL database schema changes.
 
 ## Features
-
-- Initialize migration setup
 - Create new migrations
 - Apply pending migrations
 - List all migrations and their status
@@ -77,6 +75,3 @@ Available commands:
 - `docker-compose.yml`: Docker configuration for PostgreSQL (optional)
 - `main_test.py`: Test file for the migration tool
 
-## Testing
-
-Run tests using pytest:
