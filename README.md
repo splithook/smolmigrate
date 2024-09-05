@@ -69,6 +69,9 @@ Available commands:
    python main.py list
    ```
 
+   New contributors are welcomed!
+
+
 ## Project Structure
 
 - `main.py`: Core functionality of the migration tool
